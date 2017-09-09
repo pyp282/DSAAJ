@@ -126,5 +126,6 @@ public class BuildFolder {
 
         copyFile(fromFolder, toFolder);
 //        replaceContent();
+
     }
 }

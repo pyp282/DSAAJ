@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DSAAJ.iml" filepath="$PROJECT_DIR$/DSAAJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DSAAJ.iml" filepath="$PROJECT_DIR$/.idea/modules/DSAAJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DSAAJ_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DSAAJ_main.iml" group="DSAAJ" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DSAAJ_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DSAAJ_test.iml" group="DSAAJ" />
     </modules>
   </component>
 </project>
